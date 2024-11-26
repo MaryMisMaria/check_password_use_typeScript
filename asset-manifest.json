@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/check_password_use_typeScipts/static/css/main.a8563d6b.css",
-    "main.js": "/check_password_use_typeScipts/static/js/main.2b4de5fb.js",
-    "index.html": "/check_password_use_typeScipts/index.html",
-    "main.a8563d6b.css.map": "/check_password_use_typeScipts/static/css/main.a8563d6b.css.map",
-    "main.2b4de5fb.js.map": "/check_password_use_typeScipts/static/js/main.2b4de5fb.js.map"
+    "main.css": "/check_password_use_typeScript/static/css/main.a8563d6b.css",
+    "main.js": "/check_password_use_typeScript/static/js/main.2b4de5fb.js",
+    "index.html": "/check_password_use_typeScript/index.html",
+    "main.a8563d6b.css.map": "/check_password_use_typeScript/static/css/main.a8563d6b.css.map",
+    "main.2b4de5fb.js.map": "/check_password_use_typeScript/static/js/main.2b4de5fb.js.map"
   },
   "entrypoints": [
     "static/css/main.a8563d6b.css",
