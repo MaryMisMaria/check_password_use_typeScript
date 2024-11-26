@@ -38,11 +38,8 @@ const App: React.FC = () => {
       <div className='password-strength-container'>
         <h1>Password Strength Checker</h1>
         <PasswordInput value={password} onChange={handlePasswordChange} />
-        <InstructionPanel
-            isVisible={showInstruction}
-            onClose={() => setShowInstruction(false)}
-        />
-        <PasswordStrengthIndicator colors={getStrengthColors(strength)} />
+        <InstructionPanel isVisible={showInstruction} onClose={() => setShowInstruction(false)}/>
+        <PasswordStrengthIndicator colors={getStrengthColors(strength)}/>
         <div className='password-strength-message' style={{color: useTextColor(strength)}}>
           {
               R.equals(strength, 'empty') && (
